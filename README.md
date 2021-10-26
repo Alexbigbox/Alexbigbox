@@ -1,7 +1,3 @@
-
-<!--
-**Alexbigbox/Alexbigbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi There, I'm Alexander Kruger 👋
 
 - 🔭 I’m currently working as Software Engineer [@Ajudar](https://ajudar.app)
